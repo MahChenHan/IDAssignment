@@ -5,7 +5,7 @@ In the website the user will be able to get to know me more. Such as my Educatio
 Design Process.
 This Website is for people employers to navigate easily through my website to see my information.
 It is also to present myself in best light and get hired.
-You will be able to see my wireframe in another file which i roughly mock up a design for the website.
+You will be able to see my wireframe in another file where I roughly mocked up a design for the website.
 
 Features.
 Include educational history and work experience.
@@ -21,7 +21,7 @@ There is an animation where "Welcome to my PortFolio Website" is seen as typing.
 The Contact Me button when hover over will change border color.
 Most image when click on will open another website.
 The Footer "Instagram" and "LinkedIn" has website linked on it too.
-When the footer are hover over a line will be drawn underneath it.
+When the footer is hovered over a line will be drawn underneath it.
 
 Testing.
 1.Contact Form
@@ -38,4 +38,4 @@ Media.
 The photos used in this site were obtained from Google.
 
 Acknowledgements.
-I recieved insipiration for this project from looking at other Portfolio Websites and taking inspiration from their sites.
+I received inspiration for this project from other Portfolio Websites and taking inspiration from their sites.
